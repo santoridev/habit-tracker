@@ -33,7 +33,7 @@ The backend uses:
 ### Prerequisites
 
 * Go 1.18+ installed
-* Git
+
 
 ### Installation
 
